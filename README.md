@@ -1,4 +1,5 @@
-## React Material Admin Full — Material-UI Dashboard Template
+## React Material Admin — Material-UI Dashboard Template
+* Forked from [Flatgronic React Material Admin](https://github.com/flatlogic/react-material-admin)
 * Built with [React](https://facebook.github.io/react/), [Material-UI](https://material-ui.com), [React Router](https://reacttraining.com/react-router/). **No jQuery and Bootstrap!**
 * **This version uses React 16.8.6, React Router v5, MaterialUI v4, built with React Hooks and React Context (No Redux)**
 * [Demo](https://flatlogic.com/admin-dashboards/react-material-admin-full/demo).
